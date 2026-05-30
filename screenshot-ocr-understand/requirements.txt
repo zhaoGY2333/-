@@ -1,0 +1,6 @@
+pillow
+pytesseract
+openai
+pyperclip
+python-dotenv
+keyboard
